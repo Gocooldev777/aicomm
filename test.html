@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Speech Recognition Test</title>
+</head>
+<body>
+    <button id="start">Start Talking</button>
+    <button id="stop">Stop Talking</button>
+    <p id="output">Transcript will appear here...</p>
+
+    <script>
+        const startButton = document.getElementById('start');
+        const stopButton = document.getElementById('stop');
+        const output = document.getElementById('output');
+
+        const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+        recognition.continuous = true;
+        recognition.interimResults = true;
+
+        recognition.onresult = (event) => {
+            const transcript = Array.from(event.results)
+                .map(result => result[0])
+                .map(result => result.transcript)
+                .join('');
+            output.textContent = transcript;
+        };
+
+        recognition.onerror = (event) => {
+            console.error('Error occurred in recognition: ', event.error);
+        };
+
+        startButton.onclick = () => {
+            recognition.start();
+        };
+
+        stopButton.onclick = () => {
+            recognition.stop();
+        };
+    </script>
+</body>
+</html> 

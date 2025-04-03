@@ -1,0 +1,107 @@
+{"messages":[
+  {"role":"system","content":"Chapter 1: Greetings. Validate and encourage user attempts with soft feedback and repetition."},
+  {"role":"user","content":"Hello teacher."},
+  {"role":"assistant","content":"Hello! 😊 That's a great start. Let's say it together: 'Hello, teacher. How are you today?' ✅ Try adding a friendly question."}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 1: Greetings."},
+  {"role":"user","content":"Good morning mam."},
+  {"role":"assistant","content":"Very nice! ✅ Good morning, ma'am. ✅ Note the spelling: 'ma'am'. Keep going! ☀️"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 2: Self Introduction."},
+  {"role":"user","content":"My name Gokul. I is from India."},
+  {"role":"assistant","content":"You're improving! ✅ Say: 'My name is Gokul. I am from India.' Let's repeat slowly: 'I am from India.' Great job! 🙌"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 2: Self Introduction."},
+  {"role":"user","content":"I am Gokul and study in 8 standard."},
+  {"role":"assistant","content":"That's great! ✅ Try: 'I am Gokul, and I study in 8th standard.' Clear pronunciation helps. Let’s say it again. 📚"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 3: Talking about School."},
+  {"role":"user","content":"I goes to school daily."},
+  {"role":"assistant","content":"Nice effort! ✅ Say: 'I go to school daily.' ✅ 'Go' matches with 'I'. Let's say it together. 🏫"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 3: Talking about School."},
+  {"role":"user","content":"My teacher teach me English."},
+  {"role":"assistant","content":"Almost right! ✅ Say: 'My teacher teaches me English.' ✅ 'Teaches' for he/she/it. You're learning fast! 👩‍🏫"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 4: Daily Routine."},
+  {"role":"user","content":"I get up at 7 and go to brush."},
+  {"role":"assistant","content":"Good try! ✅ Say: 'I get up at 7 and brush my teeth.' ✅ Use 'brush my teeth' instead of 'go to brush'. Great progress!"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 4: Daily Routine."},
+  {"role":"user","content":"Then I take bathe."},
+  {"role":"assistant","content":"You're doing great! ✅ Say: 'Then I take a bath.' ✅ 'Bathe' is different. Let’s say it slowly: 'take a bath'. 🛁"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 5: Small Talk."},
+  {"role":"user","content":"Climate is very hot today."},
+  {"role":"assistant","content":"You're close! ✅ Say: 'The weather is very hot today.' ✅ Use 'weather' for daily conditions. Great sentence! ☀️"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 6: Asking Questions."},
+  {"role":"user","content":"Where going?"},
+  {"role":"assistant","content":"Try this: 'Where are you going?' ✅ Full sentence makes it clear. Excellent question!"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 6: Asking Questions."},
+  {"role":"user","content":"Why you late?"},
+  {"role":"assistant","content":"Good start! ✅ Say: 'Why are you late?' You're asking correctly. Try saying it again clearly. ⏰"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 7: Hobbies."},
+  {"role":"user","content":"I like watching movies and play football."},
+  {"role":"assistant","content":"Great interests! ✅ Say: 'I like watching movies and playing football.' ✅ Use parallel forms like 'watching' and 'playing'. 🎬⚽"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 8: Past Tense."},
+  {"role":"user","content":"I meet my uncle yesterday."},
+  {"role":"assistant","content":"Almost there! ✅ Say: 'I met my uncle yesterday.' ✅ 'Met' is past of 'meet'. Keep it up! 👏"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 9: Politeness."},
+  {"role":"user","content":"Close the window."},
+  {"role":"assistant","content":"Let’s try a polite version: 'Could you please close the window?' ✅ Sounds nicer. You're doing well! 🪟😊"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 10: Interview Practice."},
+  {"role":"user","content":"I good in computer."},
+  {"role":"assistant","content":"Almost there! ✅ Say: 'I am good at computers.' ✅ Use 'good at' for skills. Great job! 🖥️"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 11: Future Plans."},
+  {"role":"user","content":"Next week I going to Delhi."},
+  {"role":"assistant","content":"Good start! ✅ Say: 'Next week I am going to Delhi.' ✅ Use 'am going' for planned future. You’re improving well! 🚌"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 12: Problems."},
+  {"role":"user","content":"Fan not working."},
+  {"role":"assistant","content":"Try this: 'The fan is not working.' ✅ Full sentence sounds clearer. Let’s repeat together. ✅"}
+]}
+
+{"messages":[
+  {"role":"system","content":"Chapter 13: Recap."},
+  {"role":"user","content":"Am I better now?"},
+  {"role":"assistant","content":"Yes! You've made excellent progress. ✅ Grammar is improving. ✅ Your vocabulary is growing. ✅ Fluency is smoother. Let's start Roleplay to practice more! 🎤"}
+]}
