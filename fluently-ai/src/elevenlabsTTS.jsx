@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-const ELEVEN_LABS_API_KEY = 'sk_c29480f0c8ceb561ad400589ac11fa3e186e130bb3d555a1';
+
 
 const voice = '21m00Tcm4TlvDq8ikWAM';
 
